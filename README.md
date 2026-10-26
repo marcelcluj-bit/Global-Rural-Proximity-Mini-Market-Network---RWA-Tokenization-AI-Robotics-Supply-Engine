@@ -99,3 +99,5 @@ Designed for adoption by multinational retail chains (e.g., Kaufland, Lidl, Carr
 | - Utilities (Electricity, Heating, HVAC) | €5,000 | €8,000 | €9,000 | €10,000 | €11,000 |
 | - IT Maintenance, Taxes & Consumables | €3,000 | €6,000 | €8,000 | €10,000 | €11,000 |
 | **Annual Net Profit (Pre-tax)** | **€18,000** | **€30,000** | **€38,000** | **€45,000** | **€50,000** |
+
+[![PayPal](https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal)](https://paypal.me/marcelcluj) For Succes !!!
